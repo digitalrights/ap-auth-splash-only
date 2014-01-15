@@ -1,0 +1,13 @@
+This plugin implements a splash-only authenticator.  The user can just push a button
+and be logged on the network.
+
+
+LICENSE
+-------
+
+see LICENSE file
+
+INSTALLATION
+------------
+
+see http://authpuppy.org/doc

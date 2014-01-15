@@ -1,0 +1,28 @@
+0.1.1
+  - Corrected bug with empty text before or text after (#766604)
+  - Corrected problem with using the MAC as identity that was also applied to other authentication plugins when using more than one method
+
+0.1.1-beta: bzr 11
+  - Possibility to use the MAC address as the identity (#746063)
+  - Possibility to auto-log users without showing the login page (#746061)
+
+0.1.1-alpha: bzr 10
+  - Possibility to edit connect button text
+  - Possibility to add text to the login page (before and after the button) (bug #712218)
+
+0.1.0-stable: bzr 8
+  - Added timestamp to default identity name to differentiate them
+
+0.1.0-beta: bzr 6
+  - Can now configure a custom title for the authenticator 
+  - Whether to show the optional name field is now optional
+
+
+0.1.0-alpha: bzr 4
+  - Configure form was copy-pasted from apAuthLocalUser, but is not useful at all [yet] for this authenticator
+  - Added LICENSE and README
+
+0.1.0-dev: bzr 1
+  Initial version of this plugin
+    - Click button login with optional name
+    

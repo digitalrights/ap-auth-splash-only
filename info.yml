@@ -1,0 +1,7 @@
+info:
+  version: 0.1.1
+  stability: beta 
+  summary: Splash-only authenticator, no login/password
+  description: AuthPuppy authenticator for a splash-only user, without any login information.
+  website: http://launchpad.net/authpuppy
+  source: bzr branch lp:~alliancecsf-dev/authpuppy/apAuthSplashOnlyPlugin
